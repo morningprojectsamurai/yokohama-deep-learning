@@ -1,0 +1,12 @@
+.idea
+**/*~
+**/__pycache__
+media/*
+**/credential*
+db.sqlite3
+**/*.log
+mps_venv
+run
+.vagrant
+Vagrantfile
+**/MNIST_data
